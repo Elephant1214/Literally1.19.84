@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Literally 1984
 
 ## Setup
 
